@@ -10,11 +10,11 @@
 
 int main(void)
 {
-int n;
-for (n = 0; n < 10; n++)
+int num;
+for (num = 48; num <= 57; num++)
 {
-printf("%d", n);
+putchar(num);
 }
-printf("\n");
+putchar(10);
 return (0);
 }
