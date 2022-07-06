@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints putchar
+ *main - prints putchar
  *
  *Description: 'The programme description'
  *
