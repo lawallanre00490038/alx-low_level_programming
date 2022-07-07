@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
-* \\o/\n
 * main - causes an infinite loop
 * Return: 0
 */
@@ -15,6 +14,7 @@ printf("Infinite loop incoming :(\n");
 i = 0;
 
 /**
+* this is a short descr  
 * while (i < 10)
 * {
 *        putchar(i);
