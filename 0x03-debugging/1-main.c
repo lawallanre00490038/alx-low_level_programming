@@ -13,11 +13,10 @@ printf("Infinite loop incoming :(\n");
 
 i = 0;
 
-/**
-* this is a short descr  
+/**  
 * while (i < 10)
 * {
-*        putchar(i);
+*   putchar(i);
 * }
 */
 
