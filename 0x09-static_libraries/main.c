@@ -1,11 +1,12 @@
 #include "main.h"
 
-/*
- * _put will put
- * Auth: Brennan D Baraban
- * Desc: Header file containing the prototypes of all functions
- *       included in the static library libholberton.a.
- */
+/**
+* main - Entry point
+* 
+* Description: 'the program's description'
+* 
+* Return: Always 0 (Success)
+*/
 
 int main(void)
 {
